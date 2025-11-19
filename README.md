@@ -33,8 +33,7 @@ Hardware Requirments -
 5. Check to see if the program runs correctly.
 
 ---
-``
---
+
 
 # HangMan Game 
 
